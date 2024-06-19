@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Project4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inputFileName
+comment2.target=Train[]\ readFile(java.lang.String)
+comment2.text=\r\n\ Method\ readFile\ takes\ param\ of\ String\ as\ a\ file\ name\ and\ reads\ it's\ contents.\r\n\ Initializes\ Array,\ assigns\ variables,\ and\ returns\ Array\r\n\r\n\ @param\ \ String\r\n\ @return\ \ Array\r\n
+comment3.params=start\ end\ today\ t\ out
+comment3.target=void\ writeReport(int,\ int,\ boolean,\ Train[],\ java.io.PrintWriter)
+comment3.text=\r\n\ Method\ writeReport\ takes\ params\ start,\ end,\ today,\ t,\ and\ out.\ Uses\ these\ variables\ with\ \r\n\ conjunction\ to\ methods\ from\ Train\ Class\ to\ write\ a\ report\ to\ a\ new\ file.\ \r\n\ Does\ a\ lot\ of\ logic\ and\ some\ math,\ "I\ freaking\ love\ math"\r\n\r\n\ @param\ \ int,\ boolean,\ Array,\ PrintWriter\r\n\ @return\ \ nothing\r\n
+numComments=4
